@@ -70,3 +70,89 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+## Unity ##
+
+*.cs diff=csharp text
+*.cginc text
+*.shader text
+
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+
+
+## git-lfs ##
+
+#Image
+*.jpg 
+*.jpg.meta
+
+*.jpeg
+*.jpeg.meta
+*.png 
+*.png.meta
+*.gif 
+*.gif.meta
+*.psd 
+*.psd.meta
+*.ai 
+*.ai.meta
+*.tif 
+*.tif.meta
+
+#Audio
+*.mp3 
+*.wav 
+*.ogg 
+*.mp3.meta 
+*.wav.meta 
+*.ogg.meta 
+
+#Video
+*.mp4
+*.mov
+*.mp4.meta 
+*.mov.meta 
+
+#3D Object
+*.FBX 
+*.fbx 
+*.blend
+*.obj
+*.FBX.meta 
+*.fbx.meta 
+*.blend.meta
+*.obj.meta
+
+#ETC
+*.a
+*.exr
+*.tga
+*.pdf
+*.zip
+*.dll
+*.unitypackage
+*.aif
+*.ttf
+*.rns
+*.reason
+*.lxo
+*.a.meta
+*.exr.meta
+*.tga.meta
+*.pdf.meta
+*.zip.meta
+*.dll.meta
+*.unitypackage.meta
+*.aif.meta
+*.ttf.meta
+*.rns.meta
+*.reason.meta
+*.lxo.meta
