@@ -159,14 +159,14 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Base_Color_1: {r: 0.3647059, g: 0.2, b: 0.24313726, a: 0}
-    - _Base_Color_2: {r: 0.8666667, g: 0.54509807, b: 0.16078432, a: 0}
+    - _Base_Color_1: {r: 0.24528301, g: 0.1978462, b: 0.21027012, a: 0}
+    - _Base_Color_2: {r: 0.1607843, g: 0.8666667, b: 0.22834265, a: 0}
     - _Base_Color_3: {r: 0.18039216, g: 0.24313726, b: 0.29411766, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Default_Emission_Color: {r: 0.85882354, g: 0.1764706, b: 0, a: 0}
     - _EmissionColor: {r: 2.722513, g: 0.41884813, b: 0, a: 1}
-    - _Emission_Color: {r: 0.7490196, g: 0.23376635, b: 0, a: 1}
-    - _Fill_Level_Emission_Color: {r: 2.7924528, g: 0.42352942, b: 0, a: 0}
+    - _Emission_Color: {r: 0.0036383036, g: 0.7490196, b: 0, a: 1}
+    - _Fill_Level_Emission_Color: {r: 0, g: 2.792453, b: 0.675192, a: 0}
     - _GradientNoise_Color: {r: 0, g: 766.9961, b: 682.6667, a: 0}
     - _GradientNoise_Speed: {r: 0, g: 0.2, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

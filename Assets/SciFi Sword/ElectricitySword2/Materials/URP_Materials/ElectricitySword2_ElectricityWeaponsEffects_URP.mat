@@ -126,14 +126,14 @@ Material:
     - _Tilling_1: 7.4
     - _Use_Only_Emission_Opacity_Minimum: 0
     m_Colors:
-    - _Base_Color_1: {r: 0.3647059, g: 0.2, b: 0.24313726, a: 0}
-    - _Base_Color_2: {r: 0.8666667, g: 0.54509807, b: 0.16078432, a: 0}
+    - _Base_Color_1: {r: 0.21698111, g: 0.18729973, b: 0.19507343, a: 0}
+    - _Base_Color_2: {r: 0.1607843, g: 0.8666667, b: 0.77321386, a: 0}
     - _Base_Color_3: {r: 0.18039216, g: 0.24313726, b: 0.29411766, a: 0}
-    - _Circuit_Color: {r: 36.329643, g: 0, b: 0, a: 1}
+    - _Circuit_Color: {r: 0, g: 36.329643, b: 15.470526, a: 1}
     - _Electricity_Color: {r: 0, g: 1.839661, b: 2.9960785, a: 1}
     - _Electricity_Speed: {r: 0.1, g: 0.2, b: 0, a: 0}
     - _Emission_Color: {r: 0, g: 3.0547528, b: 5.992157, a: 1}
-    - _Orb_Color: {r: 2.9960785, g: 0.45709217, b: 0, a: 1}
+    - _Orb_Color: {r: 0, g: 2.9960785, b: 0.596105, a: 1}
     - _Orb_Color_1: {r: 0, g: 3.4415908, b: 3.4415908, a: 1}
     - _Orb_Color_2: {r: 0, g: 12.843142, b: 25.992073, a: 0}
     - _Orb_Speed: {r: 0.1, g: 0.2, b: 0, a: 0}
