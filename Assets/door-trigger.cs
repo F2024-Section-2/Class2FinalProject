@@ -11,7 +11,7 @@ public class DoorTrigger : MonoBehaviour
     public Animator doorAnimator;
 
     [Tooltip("Animation parameter name for opening/closing")]
-    public string openParameterName = "IsOpen";
+    public string openParameterName = "character_nearby";
 
     [Header("Optional Audio")]
     [Tooltip("Sound effect to play when door opens")]
