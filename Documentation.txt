@@ -1,0 +1,39 @@
+# Asset Links
+
+## Spaceflight
+
+https://assetstore.unity.com/packages/2d/textures-materials/milky-way-skybox-94001
+
+https://assetstore.unity.com/packages/3d/props/3d-sci-fi-radio-station-264724
+
+https://assetstore.unity.com/packages/3d/vehicles/space/hi-rez-spaceships-creator-free-sample-153363
+
+https://assetstore.unity.com/packages/3d/environments/asteroids-pack-84988
+
+https://assetstore.unity.com/packages/tools/level-design/asteroid-field-creator-1-5-143661#content
+
+https://assetstore.unity.com/packages/3d/vehicles/space/space-station-free-3d-asset-hdrp-urp-built-in-188734
+
+https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167
+
+## Planetary Outpost
+
+https://assetstore.unity.com/packages/3d/environments/3d-scifi-kit-starter-kit-92152
+
+https://assetstore.unity.com/packages/3d/props/weapons/sci-fi-grenade-223061
+
+https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-162872
+
+https://assetstore.unity.com/packages/3d/props/weapons/sword-2-fantasy-sci-fi-weapon-with-effects-280763
+
+https://assetstore.unity.com/packages/vfx/shaders/customizable-planet-shaders-131872
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
+
+https://assetstore.unity.com/packages/3d/environments/sci-fi/free-lowpoly-scifi-110070
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+
+https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438
+
+https://assetstore.unity.com/packages/3d/vegetation/3d-game-kit-environment-pack-135167
