@@ -156,7 +156,11 @@ crashlytics-build.properties
 *.rns.meta
 *.reason.meta
 *.lxo.meta
+#/Magical Forest/Library/Artifacts
+#/Magical Forest/Library/Bee
+#/Magical Forest/Library/BurstCache/JIT/Hashes
+#/Magical Forest/Library
 /Magical Forest/Library/Artifacts
-/Magical Forest/Library/Bee
+/Magical Forest/Library/Bee/artifacts
 /Magical Forest/Library/BurstCache/JIT/Hashes
-/Magical Forest/Library
+/Magical Forest/Library/ShaderCache
